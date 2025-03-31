@@ -1,0 +1,5 @@
+2025-03-31 10:42:11 - ArithmethicLogger - DEBUG - Adding 5 and 3: 8
+2025-03-31 10:42:11 - ArithmethicLogger - DEBUG - Subtracting 4 from 10: 6
+2025-03-31 10:42:11 - ArithmethicLogger - DEBUG - Multiplying 2 and 6: 12
+2025-03-31 10:42:11 - ArithmethicLogger - DEBUG - Dividing 8 by 2: 4.0
+2025-03-31 10:42:11 - ArithmethicLogger - ERROR - Division by zero error
