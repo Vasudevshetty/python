@@ -5,3 +5,4 @@ pandas
 flask
 streamlit
 scikit-learn
+matplotlib
